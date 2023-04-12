@@ -1,1 +1,5 @@
-motivasi saya untuk mengikuti bootcamp Laravel Web Dev adalah untuk belajar bagaimana cara mengembangkan aplikasi web dengan framework laravel, dan harapan saya setelah mengikuti bootcamp ini adalah dapat mengupgrade pengetahuan  tentang pengembangan web.
+motivasi saya untuk mengikuti bootcamp Laravel Web Dev 
+adalah untuk belajar bagaimana cara mengembangkan aplikasi 
+web dengan framework laravel, dan harapan saya setelah 
+mengikuti bootcamp ini adalah dapat mengupgrade pengetahuan  
+tentang pengembangan web.
